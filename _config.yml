@@ -1,0 +1,28 @@
+name: MasterStoryteller
+favicon: null
+layout_spectrum: 0.033355894731357694
+typography_spectrum: 0.6490433998405933
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.0668239314109087
+  lightness: 0.9113782083149999
+  saturation: 0.14484077948145568
+  rhythmicContrast: 0.6514922017231584
+purpose: []
